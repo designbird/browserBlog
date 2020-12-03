@@ -16,6 +16,10 @@ body{
     margin-right: 0;
 }
 
+.navbar-inverse .navbar-brand {
+    color: black;
+}
+
 div.navbar-collapse.collapse {
     background: lightblue;
     border-color: lightblue;
