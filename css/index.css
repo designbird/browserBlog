@@ -16,6 +16,11 @@ body{
     margin-right: 0;
 }
 
+img {
+    vertical-align: middle;
+    padding: 50px;
+}
+
 .navbar-inverse .navbar-brand {
     color: black;
 }
