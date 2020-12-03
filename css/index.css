@@ -4,6 +4,11 @@
     margin-right: 0;
 }
 
+div.navbar-collapse.collapse {
+    background: lightblue;
+    border-color: lightblue;
+}
+
 section#itemsInner{
     display: flex;
     overflow-x: auto;
