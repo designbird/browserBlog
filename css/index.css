@@ -12,6 +12,12 @@ body{
     font-family: 'Inter', sans-serif;
 }
 
+.btn-primary {
+    color: grey;
+    background-color: lightgoldenrodyellow;
+    border-color: lightgoldenrodyellow;
+}
+
 .navbar-nav.navbar-right:last-child {
     margin-right: 0;
 }
