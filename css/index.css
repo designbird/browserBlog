@@ -17,6 +17,10 @@ h2, .h2 {
     font-size: 15px;
 }
 
+h3, .h3 {
+    font-size: 15px;
+}
+
 .btn-primary {
     color: black;
     background-color: lightpink;
