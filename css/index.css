@@ -32,13 +32,18 @@ h3, .h3 {
     margin-right: 0;
 }
 
+.navbar-inverse {
+    background-color: white;
+    border-color: white;
+}
+
 .navbar-inverse .navbar-brand {
     color: black;
 }
 
 div.navbar-collapse.collapse {
-    background: lightblue;
-    border-color: lightblue;
+    background: white;
+    border-color: white;
 }
 
 section#itemsInner{
