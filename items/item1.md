@@ -23,5 +23,5 @@
 
 <p>
 <h2>My Angle</h2>
-<body>I wanted to make sure that this app would accurately address the needs of students while benefitting all involved parties. I focused on the the Laurier Brantford community while conducting my research because living on campus myself gave me a unique opportunity to connect with fellow students and gain their insights. I wanted to make sure that the mentor/mentee relationship established by the app would help both the mentors and mentees succeed,  instead of just focusing on the mentee experience. </body>
+<body>I wanted to make sure that this app would accurately address the needs of students while benefitting all involved parties. I focused on the the Laurier Brantford community while conducting my research because living on campus myself gave me a unique opportunity to connect with fellow students and gain their insights. I wanted to make sure that the mentor/mentee relationship established by the app would help both the mentors and mentees succeed,  instead of just focusing on the mentee experience.  </body>
 </p>
