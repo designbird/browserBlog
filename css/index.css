@@ -118,6 +118,6 @@ a.left-button, a.right-button {
     color: white;
 }
 
-.navbar-inverse .navbar-brand: :hover {
-    color: 
+.navbar-inverse .navbar-brand :hover {
+    color: lightpink
 }
