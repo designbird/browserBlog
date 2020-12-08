@@ -95,13 +95,16 @@ a.left-button, a.right-button {
     color: rgb(60, 60, 60);
 }
 
+header {
+    background-image: url("/img/backimg.jpg");
+    background-attachment: fixed;
+}
+
 .header {
     padding: 60px;
     text-align: center;
-    background-image: url("/img/backimg.jpg");
-    padding-bottom: 3in;
     background-color: darkcyan;
-    background-attachment: fixed;
     color: gray;
     font-size: 30px;
   }
+
