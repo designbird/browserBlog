@@ -3,6 +3,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');
 
 
+
+.header {
+    background-image: url("/css/backimg.jpg");
+    padding: 70px;
+    text-align: left;
+    color: black;
+    font-size: 25px;
+  }
+
+
+
 /* text/font */
 
 h1, h2, h3, h4, h5{
@@ -94,12 +105,4 @@ a.left-button, a.right-button {
     text-decoration: none;
     color: rgb(60, 60, 60);
 }
-
-.header {
-    background-image: url("/img/backimg.jpg");
-    padding: 70px;
-    text-align: left;
-    color: black;
-    font-size: 25px;
-  }
 
