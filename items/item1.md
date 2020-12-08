@@ -2,7 +2,7 @@
 <h2>App development for fostering student connection</h2>
 
 <p>
-<h2>Tools Used</h2>
+<h2>Tools</h2>
 <body>Sketch</body>
 </p>
 
@@ -10,7 +10,6 @@
 <h2>Skills</h2>
 <body>Wireframing, Prototyping, User Research</body>
 </p>
-
 
 <p>
 <h2>Project Brief</h2>
@@ -24,5 +23,5 @@
 
 <p>
 <h2>My Angle</h2>
-<body>I wanted to make sure that this app would accuratley address the needs of students while benefitting all involved parties.  </body>
+<body>I wanted to make sure that this app would accurately address the needs of students while benefitting all involved parties. I focused on the the Laurier Brantford community while conducting my research because living on campus myself gave me a unique opportunity to connect with fellow students and gain their insights. I wanted to make sure that the mentor/mentee relationship established by the app would help both the mentors and mentees succeed,  instead of just focusing on the mentee experience. </body>
 </p>
