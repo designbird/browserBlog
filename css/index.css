@@ -5,9 +5,9 @@
 
 
 .header {
-    background-image: url("/css/backimg.jpg");
-    padding: 70px;
-    text-align: left;
+    background-image: url("../img/backimg.jpg");
+    padding: 50px;
+    text-align: center;
     color: black;
     font-size: 25px;
   }
