@@ -6,6 +6,8 @@
 
 .header {
     background-image: url("../img/backimg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
     padding: 100px;
     text-align: center;
     color: black;
