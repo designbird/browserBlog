@@ -1,5 +1,5 @@
-<h1>MentorLink</h1>
-<h2>App development for fostering student connection</h2>
+<h1>Dryad</h1>
+<h2>App for promoting sustainable consumer behaviors</h2>
 
 <p>
 <h2>Tools</h2>
