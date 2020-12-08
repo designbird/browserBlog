@@ -6,6 +6,7 @@
 
 .header {
     background-image: url("../img/backimg.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding: 150px;
@@ -44,8 +45,8 @@ h3, .h3 {
 }
 
 .navbar-inverse {
-    background-color: white;
-    border-color: white;
+    background-color: transparent;
+    border-color: transparent;
 }
 
 .navbar-inverse .navbar-brand {
@@ -53,8 +54,8 @@ h3, .h3 {
 }
 
 div.navbar-collapse.collapse {
-    background: white;
-    border-color: white;
+    background: transparent;
+    border-color: transparent;
 }
 
 section#itemsInner{
