@@ -8,7 +8,10 @@
 
 <p>
 <h2>My Role</h2>
-<body>I was the sole designer on this project, and I was responsible for doing user research, creating wireframes, and creating a report with my process and thoughts. I had one week to complete everything all together as a design exercise as part of my process in applying to a design internship.
+<body>I was the sole designer on this project, and I was responsible for doing user research, creating wireframes, and creating a report with my process and thoughts. I had one week to complete everything all together as a design exercise as part of my process in applying to a design internship. </body>
+</p>
 
- </body>
+<p>
+<h2>My Angle</h2>
+<body>I was the sole designer on this project, and I was responsible for doing user research, creating wireframes, and creating a report with my process and thoughts. I had one week to complete everything all together as a design exercise as part of my process in applying to a design internship. </body>
 </p>
