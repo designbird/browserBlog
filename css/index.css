@@ -97,7 +97,8 @@ a.left-button, a.right-button {
 
 .header {
     padding: 60px;
-    text-align: right;
+    padding-left: 20px;
+    text-align: left;
     background-color: white;
     color: black;
     font-size: 25px;
