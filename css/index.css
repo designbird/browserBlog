@@ -98,7 +98,7 @@ a.left-button, a.right-button {
 .header {
     padding: 60px;
     text-align: center;
-    background: blue;
+    background-image: url('img/backimg.jpg');
     color: white;
     font-size: 30px;
   }
