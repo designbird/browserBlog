@@ -1,6 +1,8 @@
 <h1>MentorLink</h1>
 <h2>App development for fostering student connection</h2>
 
+<img alt="Mentorlink Image">
+
 <p>
 <h2>Tools</h2>
 <body>Sketch</body>
