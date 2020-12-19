@@ -1,3 +1,3 @@
 # Contact Us
 
-We would love to hear from you.
+I'd love to chat over design with you!
