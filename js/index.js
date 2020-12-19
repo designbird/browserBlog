@@ -58,7 +58,7 @@ class Items extends Page{
             if(n != this.nCurrentItem){
                 $("section#itemsInner").append(`
                 <div class="item">
-                    <a class="itemLink" href="#"><img id="item${n}" src="${this.getImageSrc(this.oItems[n].specialImage)}" /></a>
+                    <a class="itemLink" href="#"><img id="item${n}" src="${this.getImageSrc(this.oItems[n].specialImage)}" alt="${this.getImageSrc(this.oItems[n].specialImage)}"/></a>
                     <a id="btnn${n}" class="itemLink btn btn-primary btn-block" href="#">Learn More</a>
                 </div>
                 `);
