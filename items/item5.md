@@ -16,5 +16,3 @@
 <body>I think Illustration is very powerful when coupled with good design. It helps draw users in to the interface, and makes the experience more compelling. In portfolios and case studies, it helps to tell a story and convey the meaning and impact on users. There are lots of great illustration resources online, but I think holding the skill for yourself is beneficial for crafting experiences that are true to your experience and needs.      </body>  
 
 </p>  
-
-<h2>  </h2>

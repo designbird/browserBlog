@@ -25,5 +25,3 @@
 <h2>My Angle</h2>
 <body>Working in retail shows you a lot about consumer buying habits, including the unnecessary waste that comes from plastic bags. Some customers take plastic bags when they only purchase a single pencil at checkout, and take it only for the convenience instead of thinking about the environmental impact. From my observations, consumers are mainly driven by the prospect of rewards and if rewards were given as a result of sustainable behavior, I believe that people would take more actions to act sustainably and resourcefully.  </body>  
 </p>  
-
-<h2>  </h2>

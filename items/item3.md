@@ -25,5 +25,3 @@
 <h2>My Angle</h2>
 <body>This was an important project because it directly affected students like ourselves. The changes we implemented were created from a user-centric position, as we also represent the users of the guide. I really think that having clean and clear design for something like the registration guide is vital to having an easy experience, especially as a first-time university student, and we took those values and applied them while designing our solution. </body>  
 </p>  
-
-<h2>  </h2>

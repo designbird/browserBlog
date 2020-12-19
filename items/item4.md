@@ -26,5 +26,3 @@
 <body>I personally have accidentally joined Discord calls without realizing it because of how the interface is blended together, and it freaked me out at the time because I wasn't at all used to the interface or any of its functions. Now, I'm very conscious when navigating Discord to make sure I don't accidentally join anything. I think this design will help new users become more comfortable with the interface and less likely to make any accidental slips.    </body>  
 
 </p>  
-
-<h2>  </h2>
