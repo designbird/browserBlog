@@ -38,7 +38,7 @@ h3, .h3 {
 h5, .h5 {
     display: table;
     margin: 0px auto 0px auto;
-    padding: 5px;
+    padding: 15px;
     font-size: 36px;
     background-color: black;
 }
